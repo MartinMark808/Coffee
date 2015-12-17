@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Martin</string>
+
+    <string name="Name">Nombre</string>
+    <string name="Toppings">Extras</string>
+    <string name="Whippedcream">Crema Batida</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Caramel">Caramelo</string>
+    <string name="Cinnamon">Canela</string>
+    <string name="Quantity">Cantidad</string>
+    <string name="Ordersummary">Pedido Final </string>
+    <string name="Order">Ordenar</string>
+    <string name="max">No puedes ordenar mas de 20 cafes</string>
+    <string name="min">Necesitas ordenar almenos un cafe</string>
+
+</resources>
